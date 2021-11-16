@@ -1,4 +1,4 @@
-package com.javaex.practice;
+package com.javaex.practice;//2021.11.17(수)08:40 Practice01과 github 내 Practice01연동 안 되는 중
 
 public class Ex01 {
 	public static void main(String[] args) {
