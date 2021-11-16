@@ -13,7 +13,7 @@ public class Ex14 {//출제포인트:
 		double h = sc.NewDouble();
 	
 		
-		
+		sc.close();
 	}
 }
  
